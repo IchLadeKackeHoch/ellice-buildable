@@ -2,6 +2,8 @@
 
 Buildable Fabric mod source for Minecraft 26.1.2.
 
+<img width="1672" height="941" alt="Ellice" src="https://github.com/user-attachments/assets/e615d317-7736-4a3c-bc90-270b4eb52b57" />
+
 ## Requirements
 
 - JDK 25
